@@ -82,8 +82,138 @@ Al obrir la MV Windows 10 clico f12 per a seleccionar LAN.
 
 ![Selecció_1488](https://github.com/joelcalvet/fog/assets/114162327/e845df7e-7e17-43b6-8b27-004953b117e1)
 
+![Selecció_1489](https://github.com/joelcalvet/fog/assets/114162327/c6453614-8efd-491e-85ac-020c3d03212d)
+
+S'ha detectat la imatge.
 
 
+![Selecció_1490](https://github.com/joelcalvet/fog/assets/114162327/6a0bc98d-66aa-4945-972e-ce3f9837da32)
+
+A una màquina buida li insereixo la imatge.
+
+
+![Selecció_1491](https://github.com/joelcalvet/fog/assets/114162327/99c27099-0b63-4927-ad00-8cf0e1033d2d)
+
+![Selecció_1492](https://github.com/joelcalvet/fog/assets/114162327/f72d7957-5472-4cb7-8ae0-279d2d6da2b3)
+
+La detecta correctament.
+
+
+![Selecció_1493](https://github.com/joelcalvet/fog/assets/114162327/e8cbfe4f-1f86-4d52-8fc1-c8a8f7da31bf)
+
+![Selecció_1494](https://github.com/joelcalvet/fog/assets/114162327/68f3e747-a329-45d9-bf16-c3b61bb49da9)
+
+A la esquerra està la maquina de que he fet la copia per a fer la de la esquerra.
+
+
+![Selecció_1495](https://github.com/joelcalvet/fog/assets/114162327/ca5bdb03-13fb-4875-ad9d-91d70d2beeb7)
+
+La ip del client ubuntu s'assigna correctament en DHCP.
+
+
+![Selecció_1496](https://github.com/joelcalvet/fog/assets/114162327/84ab1d62-1880-4d23-b888-9958b2e56031)
+
+![Selecció_1497](https://github.com/joelcalvet/fog/assets/114162327/44b76a42-3417-41da-a858-fb4e940487dc)
+
+Creo la imatge i el host de l'ubuntu.
+
+
+![Selecció_1500](https://github.com/joelcalvet/fog/assets/114162327/c80450f7-7440-4a42-9725-d6b58e7962c7)
+
+![Selecció_1501](https://github.com/joelcalvet/fog/assets/114162327/9f5ba325-e291-4f69-8d3e-feda2b051303)
+
+![Selecció_1502](https://github.com/joelcalvet/fog/assets/114162327/60c28326-2b68-4525-801f-dec425989b8c)
+
+La imatge s'agafa bé.
+
+
+![Selecció_1503](https://github.com/joelcalvet/fog/assets/114162327/0c04d7a0-6a36-43ba-b233-cb373a2a1f58)
+
+![Selecció_1504](https://github.com/joelcalvet/fog/assets/114162327/6d6ca3ae-76b6-46b4-955b-813505750c02)
+
+![Selecció_1505](https://github.com/joelcalvet/fog/assets/114162327/92dc2acc-6d70-4f1b-baa9-5eba9f5bd462)
+
+![Selecció_1506](https://github.com/joelcalvet/fog/assets/114162327/05ee2408-2acd-4b17-b7e6-8e879f061bbe)
+
+Es pot fer el Deploy Image perfectament.
+
+
+![Selecció_1507](https://github.com/joelcalvet/fog/assets/114162327/d63b966e-512e-4794-b9f3-61a6768d8d6a)
+
+A l'esquerra està la màquina original, a la dreta la restauració.
+
+
+![Selecció_1511](https://github.com/joelcalvet/fog/assets/114162327/afc766de-5eca-4bde-b652-044c6aa4e161)
+
+![Selecció_1513](https://github.com/joelcalvet/fog/assets/114162327/1f17a1fb-cc4e-4fab-be04-2a1b2b9aacaf)
+
+Inicio sessió al FOG per a descarregar el client FOG.
+
+
+![Selecció_1510](https://github.com/joelcalvet/fog/assets/114162327/2339c32b-ffd8-4bc5-bc79-d4e42a55a159)
+
+![Selecció_1514](https://github.com/joelcalvet/fog/assets/114162327/3e33bbb8-7596-4e19-8381-9747988b3950)
+
+El servei està actiu, per tant es correcte.
+
+
+![Selecció_1524](https://github.com/joelcalvet/fog/assets/114162327/31b6128b-155e-4df6-bc37-a702bc1b543e)
+
+Creo el snappin per a l'instalació del firefox.
+
+
+![Selecció_1517](https://github.com/joelcalvet/fog/assets/114162327/3ebed5b5-cf6b-470e-9a14-63870ee0d30d)
+
+Al host del client li afegeixo el snapin.
+
+
+![Selecció_1518](https://github.com/joelcalvet/fog/assets/114162327/33bccca9-f9e0-4aff-aa45-42deb0966ea7)
+
+Al client li faig un single snapin.
+
+
+![Selecció_1519](https://github.com/joelcalvet/fog/assets/114162327/5108dc2b-f38a-4693-8712-3a550147b2dd)
+
+Confirmo la tasca.
+
+
+![Selecció_1520](https://github.com/joelcalvet/fog/assets/114162327/4057c571-a239-4b28-82b7-a1d474ebe3e0)
+
+![Selecció_1526](https://github.com/joelcalvet/fog/assets/114162327/8e886964-89d9-4d03-b4c6-9ddbe64df714)
+
+S'ha instalat correctament usant el snapin
+
+
+![Selecció_1527](https://github.com/joelcalvet/fog/assets/114162327/ed732197-179c-4652-a130-63bb6d7c5109)
+
+Instalo els certificats per al client FOG.
+
+
+![Selecció_1528](https://github.com/joelcalvet/fog/assets/114162327/e5c8be51-46ae-44fa-8a2a-e54aae5ca83c)
+
+Afegeixo la clau.
+
+
+![Selecció_1529](https://github.com/joelcalvet/fog/assets/114162327/55892202-59a0-44cc-9ad5-ac70090a81d6)
+
+Repositoris per a instalar mono.
+
+
+![Selecció_1530](https://github.com/joelcalvet/fog/assets/114162327/dfff7239-c2e5-4be8-99eb-0f1dc6f74208)
+
+Instalo mono.
+
+
+![Selecció_1531](https://github.com/joelcalvet/fog/assets/114162327/c131c320-06a1-4eda-a2dd-4ac64e939350)
+
+Consegueixo el paquet SmartInstaller.exe del servidor FOG.
+
+
+![Selecció_1532](https://github.com/joelcalvet/fog/assets/114162327/1501068b-fd75-4461-a0a6-debdfb18c488)
+
+![Selecció_1534](https://github.com/joelcalvet/fog/assets/114162327/1a6f3f1c-c335-45ff-a020-c3ff35400eae)
+
+Aquesta és la configuració del client FOG.
 
 
 
