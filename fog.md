@@ -215,5 +215,45 @@ Consegueixo el paquet SmartInstaller.exe del servidor FOG.
 
 Aquesta és la configuració del client FOG.
 
+Ara mostraré totes les coses que he provat per a fer el snapin que no han funcionat.
+
+![Selecció_1536](https://github.com/joelcalvet/fog/assets/114162327/e46c39c8-2e5d-4ed0-8114-e04a50d33222)
+
+![Selecció_1537](https://github.com/joelcalvet/fog/assets/114162327/1e66bdc1-3d42-4f5e-bebf-df9ae27d2b03)
+
+![Selecció_1538](https://github.com/joelcalvet/fog/assets/114162327/1fc2cff9-1d1b-4604-a911-58ee12f2738a)
+
+![Selecció_1539](https://github.com/joelcalvet/fog/assets/114162327/3d280ee8-0b44-4dc3-9268-ed59f2c56be5)
+
+![Selecció_1541](https://github.com/joelcalvet/fog/assets/114162327/45a74eef-6def-4aec-a8f3-bda0384c2769)
+
+![Selecció_1542](https://github.com/joelcalvet/fog/assets/114162327/3b43bfa0-326b-4dc8-a3cf-2ec7d2f65c81)
+
+![Selecció_1545](https://github.com/joelcalvet/fog/assets/114162327/b2550753-302a-4449-95fa-d240983e3056)
+
+![Selecció_1546](https://github.com/joelcalvet/fog/assets/114162327/c50d1aa3-17d2-4837-a327-c860c8fa6f94)
+
+![Selecció_1550](https://github.com/joelcalvet/fog/assets/114162327/ad40c082-c2c5-41d5-a209-2fc770edd70c)
+
+![Selecció_1551](https://github.com/joelcalvet/fog/assets/114162327/f8c675ab-a78f-4b87-b457-504ba52bfda1)
+
+![Selecció_1552](https://github.com/joelcalvet/fog/assets/114162327/3e4c906a-3623-427a-97b7-6c124a1b56a7)
+
+Amb aixó faig que no sigui necessari usar sudo per a instalar paquets en dpkg.
+
+![image](https://github.com/joelcalvet/fog/assets/114162327/568c0afe-fb41-48bd-a563-6b45fbbfc9fc)
+
+Aquests són tots els snapins que he fet.
+
+
+
+
+
+
+
+
+
+
+
 
 
